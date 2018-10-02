@@ -1,0 +1,19 @@
+{
+  "name": "nodelearn",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antamansid/nodelearn.git"
+  },
+  "author": "Pavel Smirnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antamansid/nodelearn/issues"
+  },
+  "homepage": "https://github.com/Antamansid/nodelearn#readme"
+}
